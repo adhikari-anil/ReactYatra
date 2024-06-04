@@ -1,0 +1,4 @@
+//Babelrc is the file that perform operation to set presets from js and react to convert EJS6 to EJS5 or React-browser
+{
+    "presets": ["@babel/preset-env", "@babel/preset-react"]
+  }
